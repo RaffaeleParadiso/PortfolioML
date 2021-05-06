@@ -1,0 +1,8 @@
+
+ Number of periods: 17
+                
+ Number of estimators: 1000
+                
+ Criterion: gini
+                
+ Maximum depth of trees: 15
